@@ -1,0 +1,7 @@
+*.exe
+*.obj
+*.cpp
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+/images/miku/*
